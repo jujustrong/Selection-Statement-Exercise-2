@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "QtYDNCpBFoQH53Fq6ZqlasZYBykGQu3MSrz0bQSo7Qmxx/AGCzgcOkz7WXxyRznzeeQcg0eUIbeOK0FYPQJ4IA==",
+  "dgSpecHash": "R7GtLTdJmGRr306hSId/7eAkPRUvu0vyfltfllm4wcj4qRULOOQWCZsgfhqF7zcBE4IGFnH5isI4xiBsuML6Hg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\SelectionStatementsExercise2\\SelectionStatementsExercise2\\SelectionStatementsExercise2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/jarmstrong/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/SelectionStatementsExercise2.csproj",
+  "expectedPackageFiles": [
+    "/Users/jarmstrong/.nuget/packages/microsoft.netcore.app.ref/6.0.32/microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/jarmstrong/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.32/microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/jarmstrong/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.32/microsoft.netcore.app.host.osx-arm64.6.0.32.nupkg.sha512"
+  ],
   "logs": []
 }
